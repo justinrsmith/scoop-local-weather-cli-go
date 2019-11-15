@@ -6,14 +6,14 @@
             "bin": [
                 "local-weather.exe"
             ],
-            "hash": "626fd7e34301a47b3d553a3ba0ee55a86dfe4a49998a2f7213ab4de7fdd847dd"
+            "hash": "ce03dc31a7b868281acee96acb29409f6cb4e2e79fe79f6a618fa923f933cd94"
         },
         "64bit": {
             "url": "https://github.com/justinrsmith/local-weather-cli-go/releases/download/v0.1.5/local-weather_0.1.5_Windows_x86_64.tar.gz",
             "bin": [
                 "local-weather.exe"
             ],
-            "hash": "3510210553f7c659ca4cfbe715688b1a4f4073366d392c29e5bdaabd1f040037"
+            "hash": "5187a8c19b3ab71374bca6515199bacbf9c1bf2a9aba15191ddd02eb5c141513"
         }
     },
     "description": "Lightweight CLI for quickly checking the current weather."
