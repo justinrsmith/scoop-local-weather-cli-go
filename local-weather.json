@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/justinrsmith/local-weather-cli-go/releases/download/v0.1.5/local-weather_0.1.5_Windows_i386.tar.gz",
+            "url": "https://github.com/justinrsmith/local-weather-cli-go/releases/download/v0.1.6/local-weather_0.1.6_Windows_i386.tar.gz",
             "bin": [
                 "local-weather.exe"
             ],
-            "hash": "aeadba306a936503c36a26c0503c251d96100401e7ddf664f0a6f099ac7ba81f"
+            "hash": "24b564d8aa39a67df35fe4c7c54bfc2acfcb1f164e88b3f76cac40ed44ded2a4"
         },
         "64bit": {
-            "url": "https://github.com/justinrsmith/local-weather-cli-go/releases/download/v0.1.5/local-weather_0.1.5_Windows_x86_64.tar.gz",
+            "url": "https://github.com/justinrsmith/local-weather-cli-go/releases/download/v0.1.6/local-weather_0.1.6_Windows_x86_64.tar.gz",
             "bin": [
                 "local-weather.exe"
             ],
-            "hash": "1b149dfad51db0719b54b48522d689a399c4b0ab1093194099306fb597ae1367"
+            "hash": "3da23187bcc9c4e0d3aece6a1acc947712565f49040ceb04029e9a4bc3abdf78"
         }
     },
     "description": "Lightweight CLI for quickly checking the current weather."
